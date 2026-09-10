@@ -19,10 +19,10 @@ If there is no cycle, the program should return null without modifying the linke
 
 ## Program:
 ```
-### Developed by
-**Name:** Dharini S
+Developed by
+Name: Dharini S
 
-**Register Number:** 212224040072
+Register Number: 212224040072
 ```
 ```java
 
