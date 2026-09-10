@@ -16,10 +16,10 @@ To write a Java program that removes all nodes from a linked list whose value ma
 
 ## Program:
 ```
-### Developed by
-**Name:** Dharini S
+Developed by
 
-**Register Number:** 212224040072
+Name: Dharini S
+Register Number: 212224040072
 ```
 ```java
 
